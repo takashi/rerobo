@@ -1,0 +1,18 @@
+{
+  "name": "rerobo",
+  "version": "0.0.1",
+  "description": "re-robo",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takashi Nakagawa <tak1240@gmail.com> (https://github.com/takashi)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-plumber": "^1.0.1"
+  }
+}
